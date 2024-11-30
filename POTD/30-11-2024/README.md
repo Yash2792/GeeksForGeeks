@@ -1,4 +1,4 @@
-<h2><a herf="https://www.geeksforgeeks.org/problems/anagram-1587115620/1"><span style="color: blue">Anagram</span></a></h2>
+<h2><a herf="https://www.geeksforgeeks.org/problems/anagram-1587115620/1">Anagram</a></h2>
 <h3>Difficulty Level : Easy</h3>
 <hr>
 <div class="problems_problem_content__Xm_eO">
