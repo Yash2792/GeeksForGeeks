@@ -1,4 +1,3 @@
-This is <span style="color:red">red text</span> in a Markdown file.
 <h2 style="color: blue"><a herf="https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1">Non Repeating Character</a></h2>
 <h3>Difficulty Level : Easy</h3>
 <hr>
