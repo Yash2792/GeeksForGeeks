@@ -1,3 +1,8 @@
+
+This will render the text with syntax highlighting, which can give the appearance of colored text[_{{{CITATION{{{_2{Colored text to markdown · community · Discussion #31570 - GitHub](https://github.com/orgs/community/discussions/31570).
+
+Would you like to explore more about GitHub Markdown or any other tips?
+
 <h2 style="color: blue"><a herf="https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1">Non Repeating Character</a></h2>
 <h3>Difficulty Level : Easy</h3>
 <hr>
