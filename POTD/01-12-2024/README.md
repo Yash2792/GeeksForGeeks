@@ -1,6 +1,6 @@
 
 This will render the text with syntax highlighting, which can give the appearance of colored text[_{{{CITATION{{{_2{Colored text to markdown · community · Discussion #31570 - GitHub](https://github.com/orgs/community/discussions/31570).
-<h2>[Non Repeating Character](https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1)</h2>
+[<h2>Non Repeating Character</h2>](https://www.geeksforgeeks.org/problems/non-repeating-character-1587115620/1)
 <h3>Difficulty Level : Easy</h3>
 <hr>
 <div class="problems_problem_content__Xm_eO">
